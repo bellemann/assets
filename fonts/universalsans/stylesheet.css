@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Universal Sans';
+    src: url('https://cdn.jsdelivr.net/gh/bellemann/assets@latest/fonts/universalsans/subset-UniversalSansDisplay-450.woff2') format('woff2');
+    font-weight: 450;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Universal Sans';
+    src: url('https://cdn.jsdelivr.net/gh/bellemann/assets@latest/fonts/universalsans/subset-UniversalSansDisplay-600.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Universal Sans';
+    src: url('https://cdn.jsdelivr.net/gh/bellemann/assets@latest/fonts/universalsans/subset-UniversalSansDisplay-500.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Universal Sans';
+    src: url('https://cdn.jsdelivr.net/gh/bellemann/assets@latest/fonts/universalsans/subset-UniversalSansDisplay-400.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
