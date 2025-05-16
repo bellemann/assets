@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('https://cdn.jsdelivr.net/gh/bellemann/assets@latest/fonts/inter-tight/subset-InterTight-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('https://cdn.jsdelivr.net/gh/bellemann/assets@latest/fonts/inter-tight/subset-InterTight-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('https://cdn.jsdelivr.net/gh/bellemann/assets@latest/fonts/inter-tight/subset-InterTight-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
